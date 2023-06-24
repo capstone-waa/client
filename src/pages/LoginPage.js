@@ -103,7 +103,6 @@ export default function LoginPage({ navigation }) {
                 onPress={() => navigation.navigate("")}>
                 <Text style={styles.buttonText}>체험해보기</Text>
               </TouchableOpacity> */}
-
         </View>
       </SafeAreaView>
     </TouchableWithoutFeedback>
